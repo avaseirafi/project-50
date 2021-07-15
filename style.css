@@ -1,0 +1,28 @@
+h1{
+    color:crimson
+}
+
+/*{
+    border: solid
+}*/
+
+.header{
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: space-between
+}
+
+.title{
+    text-align: center;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
